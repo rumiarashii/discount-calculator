@@ -26,6 +26,8 @@ int main()
 
     while (true)
     {
+        total = 0;
+        
         cout << "\n\n=== VENDING MACHINE AUTOMAT ===" << endl;
         cout << "Pilihan Minuman:" << endl;
         cout << "1. Air Mineral (Rp 4000)" << endl;
